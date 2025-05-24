@@ -1,0 +1,3 @@
+||hdslb.com/bfs/seed/log/report/log-reporter.js$script,important
+||hdslb.com/bfs/seed/jinkela/short/reporter-pb/index.js$script,important
+||hdslb.com/bfs/static/nc^$script,important
