@@ -1,8 +1,12 @@
-[Adblock Plus 2.0]
+![Adblock Plus 2.0]
 ! Title: F**k Bilibili Filter
-! Description: CRNMSL
-! Version: 25.5.24.0
+! Description: Remove tracking params, log-reporter, etc.
+! Version: 25.5.24.1
 
+! Tracking Parameters
+||bilibili.com^$removeparam=vd_source
+
+! Log reporter
 ||hdslb.com/bfs/seed/log/report/log-reporter.js$script,important
 ||hdslb.com/bfs/seed/jinkela/short/reporter-pb/index.js$script,important
 ||hdslb.com/bfs/static/nc^$script,important
